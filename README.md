@@ -95,5 +95,3 @@ These challenges are open-source and free to use for educational or personal pur
 
 👨‍💻 Happy coding!
 ```
-
-Would you like the actual PHP code for these two challenges included too?
